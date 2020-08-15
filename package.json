@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      "git+http://git@github.com/tpphu/fbgraph.git",
+      "/Users/macbookpro/workspace/younet/projects/crawler"
+    ]
+  ],
+  "_from": "git+http://git@github.com/tpphu/fbgraph.git",
+  "_id": "fbgraph@git+http://git@github.com/tpphu/fbgraph.git#61d91326e634f10e3f68501714b477b4c5eff096",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/fbgraph",
+  "_phantomChildren": {
+    "ctype": "0.5.3",
+    "hawk": "1.1.1",
+    "json-stringify-safe": "5.0.1",
+    "stringstream": "0.0.6",
+    "tough-cookie": "4.0.0"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "git+http://git@github.com/tpphu/fbgraph.git",
+    "rawSpec": "git+http://git@github.com/tpphu/fbgraph.git",
+    "saveSpec": "git+http://git@github.com/tpphu/fbgraph.git",
+    "fetchSpec": "http://git@github.com/tpphu/fbgraph.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+http://git@github.com/tpphu/fbgraph.git#61d91326e634f10e3f68501714b477b4c5eff096",
+  "_spec": "git+http://git@github.com/tpphu/fbgraph.git",
+  "_where": "/Users/macbookpro/workspace/younet/projects/crawler",
+  "author": {
+    "name": "Cristiano Oliveira",
+    "email": "ocean.cris@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/criso/fbgraph/issues"
+  },
+  "dependencies": {
+    "qs": "1.2.x",
+    "request": "2.40.x"
+  },
+  "description": "Facebook Graph API client",
+  "devDependencies": {
+    "vows": "0.7.x"
+  },
+  "engines": {
+    "node": ">= 0.4.1"
+  },
+  "homepage": "https://github.com/criso/fbgraph#readme",
+  "keywords": [
+    "facebook",
+    "api",
+    "graph"
+  ],
+  "main": "index",
+  "name": "fbgraph",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/criso/fbgraph.git"
+  },
+  "version": "1.1.0"
+}
